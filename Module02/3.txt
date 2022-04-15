@@ -1,0 +1,8 @@
+Element.classList
+https://developer.mozilla.org/ru/docs/Web/API/Element/classList
+
+Атрибуты, свойства и дата атрибуты
+https://learn.javascript.ru/dom-attributes-and-properties#nestandartnye-atributy-dataset
+
+Стили и классы
+https://learn.javascript.ru/styles-and-classes

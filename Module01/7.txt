@@ -1,0 +1,10 @@
+Методы Массивов
+https://learn.javascript.ru/array-methods
+
+Псевдомассив (для знакомства)
+https://learn.javascript.ru/arguments-pseudoarray
+
+Rest и Spread
+https://learn.javascript.ru/rest-parameters-spread-operator
+
+

@@ -1,0 +1,5 @@
+Подробная статья про события
+https://frontender.info/an-introduction-to-dom-events/
+
+Простое объяснение делегирования событий в JavaScript
+https://habr.com/ru/post/512782/

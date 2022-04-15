@@ -1,0 +1,8 @@
+Шпаргалка по JS-методам для работы с DOM
+https://habr.com/ru/company/macloud/blog/557422/
+
+Изменение документа LearnJS
+https://learn.javascript.ru/modifying-document
+
+Что такое DOM
+https://developer.mozilla.org/ru/docs/Web/API/Document_Object_Model/Introduction

@@ -1,0 +1,14 @@
+Команды из урока
+https://github.com/Maksim-Methed/learn_git/tree/lvl2
+
+Generating a new SSH key
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+git stash
+https://www.atlassian.com/ru/git/tutorials/saving-changes/git-stash
+
+Гайд по git
+https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository
+
+Как следует писать комментарии к коммитам
+https://habr.com/ru/post/416887/

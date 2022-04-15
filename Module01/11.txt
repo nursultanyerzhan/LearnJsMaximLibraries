@@ -1,0 +1,14 @@
+Отладка в браузере Chrome
+https://learn.javascript.ru/debugging-chrome
+
+try/catch
+https://learn.javascript.ru/try-catch
+
+Node JS
+https://nodejs.org/en/
+
+Код стайл google
+https://quper.notion.site/JS-CodeStyle-from-Google-e8f036c8879d47a88720785813e15bc9
+
+Настройки ESLint
+https://eslint.org/docs/rules/

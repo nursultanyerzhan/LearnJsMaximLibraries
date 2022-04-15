@@ -1,0 +1,8 @@
+Рекурсия и стек
+https://learn.javascript.ru/recursion
+
+Ключевое слово this
+https://habr.com/ru/company/ruvds/blog/419371/
+
+this (этот) или That (тот)?
+https://github.com/azat-io/you-dont-know-js-ru/blob/master/this%20%26%20object%20prototypes/ch1.md

@@ -1,0 +1,14 @@
+Основы объектов
+https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/Basics
+
+Объекты LearnJS
+https://learn.javascript.ru/object
+
+Объект ссылка
+https://learn.javascript.ru/object-copy
+
+Оператор опциональной последовательности
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Optional_chaining
+
+Оператор нулевого слияния
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator

@@ -1,0 +1,11 @@
+defineProperty (MDN)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+
+defineProperties (MDN)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties
+
+Конфигурация свойств объекта
+https://learn.javascript.ru/object-properties
+
+The Wrapper Object (ENG)
+https://javascriptrefined.io/the-wrapper-object-400311b29151

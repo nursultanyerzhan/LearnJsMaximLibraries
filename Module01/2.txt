@@ -1,0 +1,9 @@
+Шпаргалка по Markdown
+https://github.com/sandino/Markdown-Cheatsheet
+
+
+Шпаргалка по Git
+https://github.com/nicothin/web-development/blob/master/git/readme.md
+
+git с командами из урока
+https://github.com/Maksim-Methed/learn_git
